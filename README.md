@@ -28,4 +28,4 @@ Don't spend too much time worrying about getting your images to display at the c
 6. Make the slides continuous. Right now, when you click "previous" at the first slide, it probably jumps right to the last slide in a very jerky fashion.  Make it so that if you click "previous" when you're at the first slide, it will go left to the last slide in your collection as if it was positioned immediately to the left of the first slide.  You should be able to continue cycling to the left by clicking the "previous" button as many times as you like and the transition will always look the same. 
 
 
-[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_carousel_slider/blob/master)
+[html preview](http://htmlpreview.github.io/?https://github.com/AtActionPark/odin_carousel_slider/blob/master/index.html)
